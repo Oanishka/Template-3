@@ -1,0 +1,182 @@
+
+
+ .navbar-brand {width:200px;height:150px; }
+
+
+
+
+
+.titlu{font-size: 2rem;line-height: 1.5;font-family: "Montserrat-Black";}
+.desprecompanie{font-size: 1.5rem;line-height: 1.5;font-family: "Montserrat-Black";}
+.proiecte{font-size: 2rem;line-height: 1.5;font-family: "Montserrat-Black";}
+
+.projectName{font-size: 1rem;line-height: 1.5;font-family: "Montserrat-Black" sans;}
+.carouselProjects{font-size: 1rem;line-height: 1.5;font-family: "Montserrat-Black" sans-serif;}
+
+.carousel-control-prev{background-color: #BB6464;}
+
+.carousel-control-next{background-color: #BB6464;}
+
+#footer{padding: 7% 15%;text-align: center;}
+
+.social-icon{margin: 20px 10px;color:#BB6464;}
+.social-icon:hover{color: #0C616E;}
+.copyright{color:#BB6464;font-size:10px;}
+
+.about-serv{text-align: center;padding-bottom: 50px;font-size: 1.5rem;}
+.card-img-top{width: 90px;height: 90px;}
+.servhr{color: #BB6464;border:1px ;}
+
+#more1 {display:none;}
+#more2 {display: none;}
+#more3 {display: none;}
+#more4 {display: none;}
+#more5 {display: none;}
+
+
+
+
+
+#myBtn1 {
+	box-shadow: 3px 4px 0px 0px #899599;
+	background:linear-gradient(to bottom, #bb6464 5%, #bab1ba 100%);
+	background-color:#bb6464;
+	border-radius:15px;
+	border:1px solid #d6bcd6;
+	display:inline-block;
+	cursor:pointer;
+	color:#0b2126;
+	font-family:Arial;
+	font-size:12px;
+	padding:5px 13px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #c0c3db;
+}
+#myBtn1:hover {
+	background:linear-gradient(to bottom, #bab1ba 5%, #bb6464 100%);
+	background-color:#bab1ba;
+}
+#myBtn1:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+
+#myBtn2 {
+	box-shadow: 3px 4px 0px 0px #899599;
+	background:linear-gradient(to bottom, #bb6464 5%, #bab1ba 100%);
+	background-color:#bb6464;
+	border-radius:15px;
+	border:1px solid #d6bcd6;
+	display:inline-block;
+	cursor:pointer;
+	color:#0b2126;
+	font-family:Arial;
+  font-size:12px;
+	padding:5px 13px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #c0c3db;
+}
+#myBtn2:hover {
+	background:linear-gradient(to bottom, #bab1ba 5%, #bb6464 100%);
+	background-color:#bab1ba;
+}
+#myBtn2:active {
+	position:relative;
+	top:1px;
+}
+
+
+#myBtn3 {
+	box-shadow: 3px 4px 0px 0px #899599;
+	background:linear-gradient(to bottom, #bb6464 5%, #bab1ba 100%);
+	background-color:#bb6464;
+	border-radius:15px;
+	border:1px solid #d6bcd6;
+	display:inline-block;
+	cursor:pointer;
+	color:#0b2126;
+	font-family:Arial;
+  font-size:12px;
+	padding:5px 13px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #c0c3db;
+}
+#myBtn3:hover {
+	background:linear-gradient(to bottom, #bab1ba 5%, #bb6464 100%);
+	background-color:#bab1ba;
+}
+#myBtn3:active {
+	position:relative;
+	top:1px;
+}
+
+
+#myBtn4 {
+	box-shadow: 3px 4px 0px 0px #899599;
+	background:linear-gradient(to bottom, #bb6464 5%, #bab1ba 100%);
+	background-color:#bb6464;
+	border-radius:15px;
+	border:1px solid #d6bcd6;
+	display:inline-block;
+	cursor:pointer;
+	color:#0b2126;
+	font-family:Arial;
+  font-size:12px;
+	padding:5px 13px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #c0c3db;
+}
+#myBtn4:hover {
+	background:linear-gradient(to bottom, #bab1ba 5%, #bb6464 100%);
+	background-color:#bab1ba;
+}
+#myBtn4:active {
+	position:relative;
+	top:1px;
+}
+
+
+#myBtn5 {
+	box-shadow: 3px 4px 0px 0px #899599;
+	background:linear-gradient(to bottom, #bb6464 5%, #bab1ba 100%);
+	background-color:#bb6464;
+	border-radius:15px;
+	border:1px solid #d6bcd6;
+	display:inline-block;
+	cursor:pointer;
+	color:#0b2126;
+	font-family:Arial;
+  font-size:12px;
+	padding:5px 13px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #c0c3db;
+}
+#myBtn5:hover {
+	background:linear-gradient(to bottom, #bab1ba 5%, #bb6464 100%);
+	background-color:#bab1ba;
+}
+#myBtn5:active {
+	position:relative;
+	top:1px;
+}
+
+
+.card-body{background-color:#BFB1B0;}
+.card-title{font-size: 1.5rem;line-height: 1.5;font-family: "Montserrat-Black" sans-serif;}
+.servicii{font-size: 1.5rem;line-height: 1.5;font-family: "Montserrat-Black" sans-serif;}
+
+
+table, th, td {
+  border: 3px solid #bb6464;
+  border-collapse: collapse;
+  color:#52006A;
+  margin-top: 300px;border-style:double;font-size: 1.2rem;padding: 20px;
+}
+.tabela-preturi {margin-left: 50px;margin-right: 50px;}
+.contact{line-height: 1.5;}
+.fa-address-book{padding-right: 8px;}
+.fa-envelope{padding-right: 8px;}
+.fa-phone{padding-right: 8px;}
